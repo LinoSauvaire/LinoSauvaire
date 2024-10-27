@@ -1,7 +1,7 @@
 ### Salut a tous ! 👋
-- 16ans
+- 18ans
  - Jeune développeur débutant
- - Mon projet actuel est un jeux vidéo de type platformer ;) 
+ - CESI Etudiant
 ### Langage
 -----------------------------------
 <img width="10%" src="https://user-images.githubusercontent.com/82234268/184509665-682c2fb6-91fc-4635-b1f3-5d03d94501ad.svg">
