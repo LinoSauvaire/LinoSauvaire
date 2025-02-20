@@ -1,6 +1,6 @@
 # Lino S. 👋
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=your-github-username.your-github-username)](https://github.com/your-github-username)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=LinoSauvaire.LinoSauvaire)](https://github.com/LinoSauvaire)
 
 > Étudiant en développement au CESI, passionné par la création de solutions innovantes.
 
