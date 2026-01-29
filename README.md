@@ -34,9 +34,9 @@
 
 ## 📊 Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=LinoSauvaire&show_icons=true&theme=radical&cache_seconds=1800)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=LinoSauvaire&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinoSauvaire&layout=compact&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinoSauvaire&layout=compact&theme=radical&langs_count=8)
 
 ## 📫 Contact
 
